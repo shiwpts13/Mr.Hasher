@@ -6,9 +6,11 @@ Mr.Hasher tool for hashing!
 prescription php (web)
 Coded By MR.MSA
 
+</pre>
+
 [Mr.Hasher Online (Click)
 ](https://tools.mr-msa.xyz/Tools/mr-hasher/)
-
+<pre>
 Hash support:
 MD5
 MD4
@@ -76,5 +78,6 @@ SHA 512
 RIPEMD 160
 
 =======================
+</pre>
 
 By[ Guardiran Security Team ](https://guardiran.org/)
