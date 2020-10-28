@@ -1,12 +1,9 @@
-<pre>
-
-Mr.Hasher tool for hashing!
+# Mr.Hasher tool for hashing!
 
 
 prescription php (web)
 Coded By MR.MSA
 
-</pre>
 
 [Mr.Hasher Online (Click)
 ](https://tools.mr-msa.xyz/Tools/mr-hasher/)
@@ -71,6 +68,7 @@ ASCII
 </pre>
 
 prescription c#  (windows)
+
 Coded By HCSH4C39
 
 Hash support:
