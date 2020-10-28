@@ -1,5 +1,3 @@
-# Mr.Hasher
-Mr.Hasher tool for hashing!  
 
 prescription php (web)
 Coded By MR.MSA
@@ -8,71 +6,71 @@ Coded By MR.MSA
 ](https://tools.mr-msa.xyz/Tools/mr-hasher/)
 
 Hash support:
-MD5<br>
-MD4<br>
-MD2<br>
-SHA1<br>
-SHA224<br>
-SHA256<br>
-SHA384<br>
-SHA512<br>
-SHA3-224<br>
-SHA3-256<br>
-SHA3-384<br>
-SHA3-512<br>
-RIPEMD-128<br>
-RIPEMD-160<br>
-RIPEMD-256<br>
-RIPEMD-320<br>
-FNV132<br>
-FNV1A64<br>
-FNV164<br>
-FNV1A32<br>
-HAVAL-128,3<br>
-HAVAL-160,3<br>
-HAVAL-192,3<br>
-HAVAL-224,3<br>
-HAVAL-256,3<br>
-HAVAL-128,4<br>
-HAVAL-160,4<br>
-HAVAL-192,4<br>
-HAVAL-224,4<br>
-HAVAL-256,4<br>
-HAVAL-128,5<br>
-HAVAL-160,5<br>
-HAVAL-192,5<br>
-HAVAL-224,5<br>
-HAVAL-256,5<br>
-TIGER-128,3<br>
-TIGER-160,3<br>
-TIGER-192,3<br>
-TIGER-128,4<br>
-TIGER-160,4<br>
-TIGER-192,4<br>
-ADLER-32<br>
-CONVERTUUENCODE<br>
-GOST<br>
-JOAAT<br>
-CRC32C<br>
-CRC32B<br>
-CRC32<br>
-SNEFRU<br>
-WHIRLPOOL<br>
-BASE64<br>
-HEX<br>
-ASCII<br>
-<br><br>
-prescription c#  (windows)<br>
-Coded By HCSH4C39<br>
-<br><br>
-Hash support:<br>
-MD5<br>
-SHA 160<br>
-SHA 256<br>
-SHA 384<br>
-SHA 512<br>
-RIPEMD 160<br>
-<br><br>
+MD5
+MD4
+MD2
+SHA1
+SHA224
+SHA256
+SHA384
+SHA512
+SHA3-224
+SHA3-256
+SHA3-384
+SHA3-512
+RIPEMD-128
+RIPEMD-160
+RIPEMD-256
+RIPEMD-320
+FNV132
+FNV1A64
+FNV164
+FNV1A32
+HAVAL-128,3
+HAVAL-160,3
+HAVAL-192,3
+HAVAL-224,3
+HAVAL-256,3
+HAVAL-128,4
+HAVAL-160,4
+HAVAL-192,4
+HAVAL-224,4
+HAVAL-256,4
+HAVAL-128,5
+HAVAL-160,5
+HAVAL-192,5
+HAVAL-224,5
+HAVAL-256,5
+TIGER-128,3
+TIGER-160,3
+TIGER-192,3
+TIGER-128,4
+TIGER-160,4
+TIGER-192,4
+ADLER-32
+CONVERTUUENCODE
+GOST
+JOAAT
+CRC32C
+CRC32B
+CRC32
+SNEFRU
+WHIRLPOOL
+BASE64
+HEX
+ASCII
+
+prescription c#  (windows)
+Coded By HCSH4C39
+
+Hash support:
+MD5
+SHA 160
+SHA 256
+SHA 384
+SHA 512
+RIPEMD 160
+
 =======================
-<br><br>
+
 By[ Guardiran Security Team ](https://guardiran.org/)
