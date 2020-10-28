@@ -1,4 +1,8 @@
 <pre>
+
+Mr.Hasher tool for hashing!
+
+
 prescription php (web)
 Coded By MR.MSA
 
