@@ -10,8 +10,11 @@ Coded By MR.MSA
 
 [Mr.Hasher Online (Click)
 ](https://tools.mr-msa.xyz/Tools/mr-hasher/)
-<pre>
+
 Hash support:
+
+<pre>
+
 MD5
 MD4
 MD2
@@ -65,11 +68,15 @@ WHIRLPOOL
 BASE64
 HEX
 ASCII
+</pre>
 
 prescription c#  (windows)
 Coded By HCSH4C39
 
 Hash support:
+
+<pre>
+
 MD5
 SHA 160
 SHA 256
