@@ -1,4 +1,6 @@
-# Mr.Hasher tool for hashing!
+# Mr.Hasher 
+
+Mr.Hasher tool for hashing! 
 
 
 prescription php (web)
